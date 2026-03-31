@@ -129,9 +129,9 @@ Examples:
 | `TELEGRAM_BOT_TOKEN` | Bot token from BotFather | *required* |
 | `MONGO_URI` | MongoDB connection string | `mongodb://localhost:27017` |
 | `MONGO_DB_NAME` | Database name | `ledger_bot` |
-| `IN_CHAT_ID` | Chat ID of the IN group | `-1001852638516` |
-| `OUT_CHAT_ID` | Chat ID of the OUT group | `-1001816909345` |
-| `REPORT_CHAT_ID` | Chat ID of the DAILY REPORT group | `-1003746938542` |
+| `IN_CHAT_ID` | Chat ID of the IN group | `-10000000000` |
+| `OUT_CHAT_ID` | Chat ID of the OUT group | `-10000600000` |
+| `REPORT_CHAT_ID` | Chat ID of the DAILY REPORT group | `-10000000000` |
 | `TIMEZONE` | Timezone for accounting | `Asia/Kathmandu` |
 | `DAY_CUTOVER_HOUR` | Hour (24h) when periods roll over | `20` |
 | `LOG_LEVEL` | Logging level | `INFO` |
